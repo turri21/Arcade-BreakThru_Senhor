@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="art/XelaNotPu-LogoTransparent-GithubSocialCrop.png" alt="Break Thru MiSTer banner" width="100%">
+</p>
+
 # Break Thru — MiSTer FPGA Arcade Core
 
 An FPGA implementation of Data East's 1986 arcade game **Break Thru**
