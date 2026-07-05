@@ -8,7 +8,11 @@
 </p>
 An FPGA implementation of Data East's 1986 arcade game **Break Thru**
 (Japanese title *Kyohkoh-Toppa*) for the
-[MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) platform.
+[MiSTer]
+
+(https://github.com/MiSTer-devel/Main_MiSTer/wiki) platform.
+
+---
 
 > ⚖️ *"Break Thru", Data East, and all related names and assets are the property
 > of their respective owners. This is an independent, non-commercial preservation
