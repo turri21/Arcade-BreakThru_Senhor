@@ -3,7 +3,9 @@
 </p>
 
 # Break Thru — MiSTer FPGA Arcade Core
-
+<p align="center">
+  <img src="art/xnbrkthru001.png" alt="Break Thru MiSTer banner" width="100%">
+</p>
 An FPGA implementation of Data East's 1986 arcade game **Break Thru**
 (Japanese title *Kyohkoh-Toppa*, MAME set `brkthru`) for the
 [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) platform.
