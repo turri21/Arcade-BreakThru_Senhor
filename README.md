@@ -7,7 +7,7 @@
   <img src="art/xnbrkthru001.png" alt="Break Thru MiSTer banner" width="100%">
 </p>
 An FPGA implementation of Data East's 1986 arcade game **Break Thru**
-(Japanese title *Kyohkoh-Toppa*, MAME set `brkthru`) for the
+(Japanese title *Kyohkoh-Toppa*) for the
 [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) platform.
 
 > ⚖️ *"Break Thru", Data East, and all related names and assets are the property
