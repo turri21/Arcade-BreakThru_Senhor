@@ -1,3 +1,8 @@
+-=(BreakThru_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 <p align="center">
   <img src="art/XelaNotPu-LogoTransparent-GithubSocialCrop.png" alt="Break Thru MiSTer banner" width="100%">
 </p>
